@@ -1,4 +1,4 @@
-MASTER BOT - CODE 
+// MASTER BOT - CODE 
 #include "soc/soc.h"
 #include "soc/rtc_cntl_reg.h"
 #include "esp_camera.h"
@@ -338,7 +338,7 @@ void turnLeft()     { digitalWrite(IN1,LOW);digitalWrite(IN2,HIGH);digitalWrite(
 void turnRight()    { digitalWrite(IN1,HIGH);digitalWrite(IN2,LOW);digitalWrite(IN3,LOW);digitalWrite(IN4,HIGH); }
 void stopMotors()   { digitalWrite(IN1,LOW);digitalWrite(IN2,LOW);digitalWrite(IN3,LOW);digitalWrite(IN4,LOW); }
 
-SLAVE BOT - CODE
+// SLAVE BOT - CODE
 
 #include "soc/soc.h"
 #include "soc/rtc_cntl_reg.h"
