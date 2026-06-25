@@ -1,6 +1,6 @@
 # Swarm Robotics with Embedded Edge AI
 Real-Time Object Detection and Cooperative Navigation in Swarm Robotics Using Embedded Edge AI.
-
+[📄 View Full Project Report PDF](./Project%20Report.pdf)
 ## Hardware Components
 - **Master Bot:** ESP32-CAM, L298N Motor Driver, 4WD Chassis
 - **Slave Bot:** ESP32, N20 Motors, Li-ion Batteries
